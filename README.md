@@ -1,7 +1,7 @@
 # Cafe Menu
 This project was developed during practice session of freecodecamp 
 
-To view Live Demo [click here]()
+To view Live Demo [click here](https://ashfaqmbd.github.io/cafemenu/)
 ## Credit to:
 [freecodecamp](www.freecodecamp.org)
 
